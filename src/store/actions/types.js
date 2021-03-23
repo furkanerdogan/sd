@@ -1,0 +1,9 @@
+export const ADDSEPET = 'ADDSEPET'; //type belirledik
+export const REMOVEONE = 'REMOVEONE'; //type belirledik
+export const REMOVEALL = 'REMOVEALL'; //type belirledik
+export const FETCH_URUN_SUCCES = 'FETCH_URUN_SUCCES';
+export const FETCH_URUN_FAILD = 'FETCH_URUN_FAILD';
+export const FETCH_URUN_START = 'FETCH_URUN_START';
+export const ORDER_PRODUCTS_BY_PRICE = 'ORDER_PRODUCTS_BY_PRICE';
+export const ADDFAVORI = 'ADDFAVORI';
+export const REMOVEFAVORI = 'REMOVEFAVORI';
